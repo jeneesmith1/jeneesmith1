@@ -1,6 +1,6 @@
 ![jenee-smith-signature-white](https://user-images.githubusercontent.com/92124071/177911533-b4ad5130-31e2-4aaa-b808-42f0018a52ad.png)
 
-I'm Jenee Smith, a software engineer at Microsoft. I work on improving marketing experiences for Microsoft users. 💞️
+I'm Jenee Smith, a software engineer. I most recently worked on improving marketing experiences for Microsoft users. 💞️
 
 My professional Github: https://github.com/jeneemicrosoft  \
 My personal portfolio: https://www.jeneesmith.com/  \
