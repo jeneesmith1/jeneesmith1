@@ -1,7 +1,7 @@
 
 ![jenee-smith-signature-white](https://user-images.githubusercontent.com/92124071/177911533-b4ad5130-31e2-4aaa-b808-42f0018a52ad.png)
 
-I'm Jenee Smith, a software engineer. I"m a developer advocate passionate about marketing tech. 💞️
+I'm Jenee Smith, a software engineer. I'm a developer advocate passionate about marketing tech. 💞️
 
 I have a passion for marketing chatbots, voice UI, and AI assistants/agents.
 
