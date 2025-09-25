@@ -9,10 +9,5 @@ My professional Github: https://github.com/jeneemicrosoft  \
 My personal portfolio: https://www.jeneesmith.com/  \
 My Twitter: https://twitter.com/jeneesmith1
 
-My experience includes:
-- working with the partnerships team at Northeastern University
-- 4 years as a full-stack software engineer at Microsoft
-- 6 years of marketing and user research experience at 23andMe, Carta, and a boutique market research firm
-
 
 ![second-jenee](https://github.com/user-attachments/assets/f0fa0457-d62e-46c4-9b8e-3140f2da9747)
